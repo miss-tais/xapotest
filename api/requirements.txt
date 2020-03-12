@@ -1,0 +1,9 @@
+flask==1.0.3
+flask-sqlalchemy==2.4.0
+flask-restful==0.3.7
+flask-script==2.0.6
+
+pymysql==0.9.3
+
+requests==2.22.0
+simplejson==3.16.0
